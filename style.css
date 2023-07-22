@@ -1,0 +1,13 @@
+#loremdiv{
+position: absolute;
+top: 40%;
+bottom: 50%;
+left: 15%;
+right: 15%;
+}
+
+#main-pic{
+    height: 500px;
+    width: 100%;
+}
+
